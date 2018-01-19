@@ -13,6 +13,7 @@ import java.util.List;
  * Created by ASUS on 2018/1/16.
  */
 @Controller
+//修改了部分功能
 public class UserController {
     @Autowired
     private UserService userService;
